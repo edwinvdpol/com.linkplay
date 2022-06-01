@@ -1,0 +1,13 @@
+[
+  {
+    "type": "group",
+    "label": {
+      "en": "Information"
+    },
+    "children": [
+      {
+        "$extends": "firmware"
+      }
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "id": "{{txt.uuid}}",
+  "type": "mdns-sd",
+  "mdns-sd": {
+    "name": "linkplay",
+    "protocol": "tcp"
+  }
+}

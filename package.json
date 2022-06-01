@@ -1,0 +1,31 @@
+{
+  "name": "com.linkplay",
+  "version": "1.0.0",
+  "homepage": "https://github.com/edwinvdpol/com.linkplay#readme",
+  "license": "MIT",
+  "author": {
+    "name": "Edwin van de Pol",
+    "email": "developer@edwinvandepol.nl"
+  },
+  "funding": [
+    {
+      "type": "individual",
+      "url": "https://www.paypal.me/edwinvdpol"
+    }
+  ],
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edwinvdpol/com.linkplay.git"
+  },
+  "dependencies": {
+    "concat-stream": "^2.0.0",
+    "fast-xml-parser": "^4.0.7",
+    "html-entities": "^2.3.3",
+    "network-address": "^1.1.2",
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "@types/homey": "npm:homey-apps-sdk-v3-types@^0.3.1"
+  }
+}

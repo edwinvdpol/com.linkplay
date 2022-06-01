@@ -1,0 +1,17 @@
+{
+  "error": {
+    "action": "Action __action__ not implemented by service",
+    "renewal": "Could not renew __service__ subscription (__status__)",
+    "service": "Service __service__ not provided by device",
+    "subscribe": "Could not subscribe to __service__ (__status__)",
+    "unsubscribe": "Could not unsubscribe to __service__ (__status__)"
+  },
+  "api": {
+    "badRequest": "Invalid request",
+    "connection": "Could not connect to device",
+    "error": "A server error occurred",
+    "response": "Invalid response received",
+    "timeout": "Device did not respond in time",
+    "unknownCommand": "Unknown command"
+  }
+}
